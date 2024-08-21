@@ -82,7 +82,7 @@
 - <a href='https://book.douban.com/subject/36057097/' target='_blank'>小米创业思考</a> 🌟🌟🌟🌟🌟 力荐- 2024-06-11
 - <a href='https://book.douban.com/subject/36624253/' target='_blank'>法律的悖论</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-02
 - <a href='https://movie.douban.com/subject/36208094/' target='_blank'>第二十条</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-01
-- <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-04
+- <a href='http://movie.douban.com/subject/1292365/' target='_blank'>活着</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-04
 - <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-24
 
 <!-- END_SECTION:douban -->
