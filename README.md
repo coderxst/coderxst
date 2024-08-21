@@ -120,8 +120,11 @@
 <!-- metrics 基础资料 -->
 
 <!-- // TODO:metrics 未完成 -->
+
 <img width="150" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/cxyduck.gif" />&emsp;
+
 <!-- <img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/base.svg" /> -->
+
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -229,3 +232,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/coderxst/coderxst/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+
+<img width="120%" src="https://repobeats.axiom.co/api/embed/d8baaa6938c4366cf92ad1bcaef7149cb64456b6.svg" />
+
+<!-- just img 图片 -->
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
