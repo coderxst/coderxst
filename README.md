@@ -123,7 +123,7 @@
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/cxyduck.gif" />&emsp;
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/base.svg" /> -->
+<img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/base.svg" />
 
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/cxyduck.gif" />
 
@@ -234,16 +234,52 @@
 </picture>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/githubgif.gif" />
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/d8baaa6938c4366cf92ad1bcaef7149cb64456b6.svg" />
+<!-- first form 第一个表格 -->
+<table width="100%">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
+
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+</table>
+
+
+<img width="120%" src="https://repobeats.axiom.co/api/embed/fdf80469def59e1b674367dc3372283366301447.svg" />
 
 <!-- just img 图片 -->
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/icon.png" /></div>
