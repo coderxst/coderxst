@@ -63,7 +63,7 @@
 
 - <a href='https://house.coderxst.top/posts/reprint/Alist_and_Lsky_image_hosting.html' target='_blank'>使用 Alist 与 Lsky 搭建图床</a> - 2023-12-31
 - <a href='https://house.coderxst.top/posts/general-technology/git_summary_of_knowledge.html' target='_blank'>Git 知识点总结</a> - 2023-07-08
-- <a href='https://house.coderxst.top/posts/programming-language/TypeScript_summary_of_knowledge.html' target='_blank'>TypeScript 知识点总结</a> - 2023-07-08
+- <a href='https://www.yuque.com/coderxst/typescript' target='_blank'>TypeScript 知识点总结</a> - 2023-07-08
 - <a href='https://house.coderxst.top/posts/redux/redux_summary_of_knowledge.html' target='_blank'>Redux 知识点总结</a> - 2023-07-08
 - <a href='https://house.coderxst.top/posts/general-technology/mysql_summary_of_knowledge.html' target='_blank'>MySQL 知识点总结</a> - 2023-07-08
 
@@ -118,8 +118,6 @@
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-
-<!-- // TODO:metrics 未完成 -->
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/cxyduck.gif" />&emsp;
 
