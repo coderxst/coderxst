@@ -75,7 +75,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
 
@@ -92,12 +92,12 @@
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/coderxst/coderxst/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
